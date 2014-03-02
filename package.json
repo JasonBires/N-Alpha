@@ -1,0 +1,15 @@
+{
+  "author": "Jackson Morgan",
+  "name": "N",
+  "description": "A test app",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
