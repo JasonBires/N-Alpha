@@ -6,7 +6,7 @@ var app = express();
 app.use(logfmt.requestLogger());
 
 app.get('/', function(req, res) {
-  res.send('<strong><h1>Greetings Universe!</h1></strong><p>Suvrat Bhooshan pushing back onto heroku server going live!!!</p><p>How are you?</p><p>Day 2 of Coding: Suvrat</p>');
+  res.send('<strong><h1>Greetings Universe!</h1></strong><p>Suvrat is eating a cookie!</p>');
 });
 
 var port = Number(process.env.PORT || 5000);
